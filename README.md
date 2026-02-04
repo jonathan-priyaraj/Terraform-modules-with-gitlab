@@ -127,6 +127,9 @@ TERRAFORM_DESTROY=YES
 
 This triggers the `destroy` job in the pipeline.
 
+<img width="965" height="700" alt="terraform and gitlab pipeline " src="https://github.com/user-attachments/assets/49ae5a0a-741e-418d-a764-4aa9585027b7" />
+
+
 ---
 
 ## CI Pipeline Stages
